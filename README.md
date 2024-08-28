@@ -1,5 +1,9 @@
 Here’s an instructions for generating and utilizing tensor networks for random quantum circuits, as well as performing multi-GPU contractions:
 
+Some files are in https://rec.ustc.edu.cn/share/b11ea090-653e-11ef-b54c-e12bd735bf53
+
+(`measurements_n53_m20_s0_e0_pABCDCDAB.txt`, `640G_scheme_n53_m20.pt`, `640G_scheme_n53_m20_ABCDCDAB_3000000_einsum_10_open.pt`, `nsch640_split512_mg3_open10.pt`)
+
 ---
 
 ### Step 1: Generate Tensor Network and Contraction Order

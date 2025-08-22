@@ -51,3 +51,10 @@ Some files are in https://rec.ustc.edu.cn/share/b11ea090-653e-11ef-b54c-e12bd735
     - The results will be saved in `sum_{ntask}.pt`.
 
 ---
+
+## Requirements
+
+The project has been tested with the following versions:
+
+- Python == 3.6.13  
+- Cirq == 0.7.0  

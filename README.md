@@ -56,8 +56,6 @@ Some files are in https://rec.ustc.edu.cn/share/b11ea090-653e-11ef-b54c-e12bd735
 
 The project has been tested with the following versions:
 
-The project has been tested with the following versions:
-
 - Python == 3.8.8  
 - Cirq == 0.7.0  
 - Torch==1.10.2
